@@ -1,4 +1,4 @@
-## Fluid vs Fixed Units of Measure
+# Fluid vs Fixed Units of Measure
 
 Once our cards are sitting next to each other and looking more 'card' like, let's take a look at what else we can change...
 
@@ -15,7 +15,7 @@ Because of this, it’s generally considered best practice to use relative units
 }
 ```
 
-### Challenge Three
+## Challenge Three
 
 👉 In your `style.css` file, set the `h1` selector to font-size 2.25rem (36px).
 
