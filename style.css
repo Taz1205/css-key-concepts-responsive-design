@@ -95,6 +95,12 @@ img {
 .nav-brand {
   font-weight: bold;
   padding-right: 1rem;
+  font-size: 1.5rem;
+  transition: color 0.3s ease;
+}
+
+.nav-brand:hover {
+  color: var(--coral);
 }
 
 .nav-items {
@@ -137,5 +143,20 @@ img {
 
   h1 {
     font-size: 3.75rem;
+  }
+}
+.footer {
+  background-color: var(--dark);
+  color: var(--light);
+  text-align: center;
+  padding: 0.5rem;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+@media (min-width: 48rem) { 
+  .card {
+      box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
+      background-color: var(--light);
   }
 }

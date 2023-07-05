@@ -60,7 +60,7 @@ const cats= [
         "species" : "Bird?",
         "favFoods" : ["your soul"],
         "birthYear" : 2020,
-        "photo" : "https://www.top13.net/wp-content/uploads/2015/10/perfectly-timed-cat-photos-funny-cover.jpg"
+        "photo" : "https://www.walkervillevet.com.au/wp-content/uploads/2016/01/image2-e1453849817704.jpeg"
     },
     {
         "name" : "El Taco",
@@ -81,7 +81,7 @@ const cats= [
         "species" : "Tiny Cat",
         "favFoods" : ["milk"],
         "birthYear" : 2021,
-        "photo" : "https://i.ytimg.com/vi/ZKBlMWI6nO4/maxresdefault.jpg"
+        "photo" : "https://getwallpapers.com/wallpaper/full/c/7/a/1129213-cute-cats-wallpaper-1920x1200-for-4k.jpg"
     },
     {
         "name" : "Tiger",
