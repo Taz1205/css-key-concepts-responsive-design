@@ -14,13 +14,16 @@ h1 {
   font-family: "Rubik Dirt", cursive;
   color: purple;
 }
+
 h2 {
   font-family: "Rubik Dirt", cursive;
   color: magenta;
 }
+
 h3 {
   font-size: 0.5rem;
 }
+
 body {
   background-color: var(--light);
   font-size: 2rem;
@@ -35,6 +38,7 @@ body {
 img {
   width: 15.625rem;
 }
+
 .card-container {
   display: flex;
   flex-wrap: wrap;
@@ -68,6 +72,7 @@ img {
     flex: 1 0 96%;
   }
 }
+
 @media (min-width: 43.75rem) {
   body {
     background-color: var(--coral);
@@ -98,6 +103,7 @@ img {
     color: var(--light);
   }
 }
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -128,6 +134,7 @@ img {
   text-decoration: underline;
   border-bottom: 1px solid currentColor;
 }
+
 .nav-items a:hover {
   color: maroon;
   transition: color 0.3s ease;
@@ -150,6 +157,7 @@ img {
   body {
     font-size: 0.9375rem;
   }
+
   h1 {
     font-size: 1.5rem;
   }
@@ -164,6 +172,7 @@ img {
     font-size: 3.75rem;
   }
 }
+
 .footer {
   background-color: var(--dark);
   color: var(--light);
@@ -173,12 +182,14 @@ img {
   bottom: 0;
   width: 100%;
 }
+
 @media (min-width: 48rem) {
   .card {
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.2);
     background-color: mediumseagreen;
   }
 }
+
 .card {
   padding: 1.5rem;
   text-align: center;
@@ -201,6 +212,7 @@ img {
 .card img {
   border-radius: 50%;
 }
+
 a {
   text-decoration: underline;
 }
