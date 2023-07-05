@@ -1,4 +1,4 @@
-## Extension 🔥
+# Extension 🔥
 
 👉 Use a [Google Font](https://fonts.google.com/) to style your text elements.
 

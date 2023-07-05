@@ -1,8 +1,8 @@
-## Media Queries
+# Media Queries
 
 Ok now our page is looking a little cattier, accessible and responsive! Purrfect. Now let's add some media queries to _really_ spice things up! 💃
 
-### Challenge Paw 🐾
+## Challenge Paw 🐾
 
 👉 Create a media query for min-width: 700px. Using rem, update our font-sizes so they will be larger for screen sizes with a min-width of 700px.
 

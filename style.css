@@ -53,3 +53,33 @@ img {
     flex: 1 0 96%;
   }
 }
+@media (min-width: 43.75rem) { 
+  body {
+    background-color: var(--coral); 
+    font-size: 1.125rem;
+  }
+}
+
+@media (min-width: 62.5rem) {
+  body {
+    background-color: var(--teal); 
+    font-size: 1.25rem; 
+  }
+}
+
+.cat-ipsum {
+  display: block;
+}
+
+@media (max-width: 36rem) {
+  .cat-ipsum {
+    display: none;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--dark);
+    color: var(--light);
+  }
+}
